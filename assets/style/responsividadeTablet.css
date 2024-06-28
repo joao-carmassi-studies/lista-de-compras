@@ -1,0 +1,13 @@
+* {
+  font-size: 25px;
+}
+
+.container1__div__span {
+  width: calc(100% - 70px);
+  height: calc(100% - 70px);
+}
+
+.container1__div__span__header__div-inputs__btn {
+  height: 40px;
+  width: 95px;
+}

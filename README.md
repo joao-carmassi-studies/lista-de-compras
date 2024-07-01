@@ -11,4 +11,4 @@
 * CSS
 
 ## Link:
-https://joao-carmassi.github.io/notas/
+https://joao-carmassi.github.io/Lista-de-compras/

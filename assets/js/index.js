@@ -137,13 +137,3 @@ function deletarItem() {
 function atualizaLocalStorage() {
   localStorage.setItem("itensLista", JSON.stringify(itensLista));
 }
-
-// {
-//   "pro": false,
-//   "plugins": [
-//     "jsdom-quokka-plugin"
-//   ],
-//   "jsdom": {
-//     "file": "./index.html"
-//   }
-// }
